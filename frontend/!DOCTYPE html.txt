@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gym Management</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Welcome to Gym Management System</h1>
+
+<button>Join Gym</button>
+
+</body>
+</html>
+body{
+text-align:center;
+font-family:Arial;
+}
+
+button{
+background:green;
+color:white;
+padding:10px;
+}
